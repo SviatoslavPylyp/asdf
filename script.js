@@ -2,4 +2,6 @@ function PrintSum(a, b) {
     return a + b;
 }
 
-console.log(PrintSum(5, 3));
+let check = PrintSum(5, 3);
+
+console.log(check);
