@@ -1,7 +1,7 @@
-function PrintSum(a, b) {
-    return a + b;
+function PrintMinus(a, b) {
+    return a - b;
 }
 
-let check = PrintSum(5, 3);
+let check1 = PrintMInus(5, 3);
 
-console.log(check);
+console.log(check1);
