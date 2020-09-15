@@ -6,8 +6,6 @@ function PrintMinus(a, b) {
     return a - b;
 }
 
-lol
-
 let check = PrintSum(5, 3);
 console.log(check);
 
