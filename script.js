@@ -1,3 +1,4 @@
+//create the function 
 function PrintMinus(a, b) {
     return a - b;
 }
